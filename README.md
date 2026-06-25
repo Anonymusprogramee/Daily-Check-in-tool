@@ -1,4 +1,4 @@
-# Hoy — daily check-in
+# Hoy — Daily Check-In
 
 Un lugar simple para escribir el día y arrastrar lo pendiente.
 
@@ -12,14 +12,14 @@ ni cuentas, ni telemetría. La app funciona 100% offline.
 
 ## Características
 
-- 📝 Notas en markdown por día con pestañas de escritura y vista previa.
-- ✅ Tareas con check / descheck / eliminar.
-- ➡️ Mover tareas a mañana, en 2, 3 o 7 días.
-- 🗂️ Sidebar con todos los días que tengan contenido, badge "hoy" y
+- Notas en markdown por día con pestañas de escritura y vista previa.
+- Tareas con check / descheck / eliminar.
+- Mover tareas a mañana, en 2, 3 o 7 días.
+- Sidebar con todos los días que tengan contenido, badge "hoy" y
   contador de tareas pendientes por día.
-- 📅 Sección "Vienen después" con las próximas 6 jornadas y sus pendientes.
-- 🌙 Modo claro/oscuro automático según el sistema.
-- ⚡ 100% client-side, sin backend.
+- Sección "Vienen después" con las próximas 6 jornadas y sus pendientes.
+- Modo claro/oscuro automático según el sistema.
+- 100% client-side, sin backend.
 
 ## Stack
 
